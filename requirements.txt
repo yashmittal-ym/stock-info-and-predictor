@@ -1,0 +1,6 @@
+pandas_datareader
+keras
+sklearn
+numpy
+pandas
+tensorflow
